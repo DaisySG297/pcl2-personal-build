@@ -1,0 +1,9 @@
+# 本仓库仅含文档，不包含任何程序、源码或密钥
+*.exe
+*.dll
+*.pdb
+*.zip
+*.jar
+PCL/
+.minecraft/
+*.log
